@@ -1,2 +1,4 @@
 *.pyc
-users.db
+*.db
+*.jpg
+*.mp4
